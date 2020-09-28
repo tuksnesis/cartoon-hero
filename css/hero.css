@@ -4,7 +4,9 @@ body{
     font-size: 20px;
     line-height: 30px;
 }
+/* header styles */
 
+/* komentāri ir ar cmd un slīpo */
 header{
     background-color: darkred;
     text-align: center;
